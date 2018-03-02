@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Will Thomson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The objective of this assignment was to create a fully functional tax calculator that used if/else statements to determine filing status.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://wmt15.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use arithmetic operators to create math oriented applications
+2. Learned how to implement Javasript programs into the index.html and ensure they operate compatibly
+3. Learned how to configure a reset button for previoslly intitialized variables
 
